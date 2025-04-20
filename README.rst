@@ -93,7 +93,7 @@ The most basic usage of InstaWebhooks is to provide an Instagram account and a D
 
 .. code:: console
 
-    instawebhooks <INSTAGRAM_USERNAME> <DISCORD_WEBHOOK_URL>
+    instawebhooks <distempetor_v2> <https://discord.com/api/webhooks/1363505234751652021/XIVsMe9yXmBIw-sObzaF6FybhdNj3CDS1rqTuKh8iHp3sk-LLEi51CNgmQ9IrcBDSUV8>
 
 For more about each option and argument, including example templates, see `Usage <https://instawebhooks.readthedocs.io/en/latest/usage.html>`_.
 
